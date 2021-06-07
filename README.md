@@ -1,6 +1,8 @@
 # Login Web
 ❗ Un menu login pour site web totalement fait en HTML/CSS/JS par moi, et en français.
 
+Il y a les messages d'erreurs, animations avec curseur sur boutons.
+
 💖 Enjoy !
 
 🎫 Mon Discord: Gabin#7955
